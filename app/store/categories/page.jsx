@@ -2,7 +2,7 @@
 
 function CategoriesPage() {
   return (
-    <div>Categories</div>
+    <h2>Categories</h2>
   )
 }
 

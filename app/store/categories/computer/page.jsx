@@ -1,7 +1,7 @@
 
 function ComputerPage() {
    return (
-     <h1>Computer</h1>
+      <h2>Computers</h2>
    )
  }
  
